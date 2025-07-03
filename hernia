@@ -6,6 +6,6 @@
   <body>
     <h1>Oi hernia</h1>
     <p>costa gay</p>
-    <button onclick="alert('Você clicou no botão!')">Clique aqui</button>
+    <button onclick="alert('Ele gosta de homem')">Aperta aqui!!</button>
   </body>
 </html>
