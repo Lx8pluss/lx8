@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HaHa</title>
+  </head>
+  <body>
+    <h1>Oi hernia</h1>
+    <p>costa gay</p>
+    <button onclick="alert('Você clicou no botão!')">Clique aqui</button>
+  </body>
+</html>
